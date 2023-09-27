@@ -1,7 +1,7 @@
 # Hi, I'm Omkar 👋
 
-<img src="https://drive.google.com/file/d/1hdJ4XOaVS9UNE2gO9-KC9lkYPYVY5Zo4/view?usp=sharing">
-Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artificial Intelligence & Machine Learning,I am primed to excel as a Proactive Business Intelligence Analyst. My ambitions also extend to the realm of Finite Element Analysis,wanna make impactful contributions to engineering and Business analytics.
+<img src="https://github.com/Omkar-2712/Omkar-2712/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png">
+Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artificial Intelligence & Machine Learning,I am primed to excel as a Proactive Business Intelligence Analyst. My ambitions also extend to the realm of Finite Element Analysis,wanna make impactful contributions to Engineering and Business analytics.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
@@ -12,6 +12,7 @@ Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artif
 
 
 - 📫 How to reach me **omkar27122002@gmail.com**
+- 💼 GrabCAD - https://grabcad.com/omkar.malusare-5
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
