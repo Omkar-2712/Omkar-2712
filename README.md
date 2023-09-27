@@ -1,3 +1,5 @@
+![logo](https://github.com/Omkar-2712/Omkar-2712/blob/main/data_analytics_certifications_-_article_image.webp)
+
 <h1 align="center">Hi 👋, I'm Omkar Malusare</h1>
 <h3 align="center">A Business Analyst from India</h3>
 
