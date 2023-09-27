@@ -1,12 +1,14 @@
 # Hi, I'm Omkar 👋
 
 <img src="https://github.com/Omkar-2712/Omkar-2712/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png">
+
 Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artificial Intelligence & Machine Learning,I am primed to excel as a Proactive Business Intelligence Analyst. My ambitions also extend to the realm of Finite Element Analysis,wanna make impactful contributions to Engineering and Business analytics.
 
 
-<a href=""><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<a href=""><img align="right" width="200" height="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif?raw=true"></a>
 
-## 🌐 How to reach me:
+
+## How to reach me
 
 <a href="mailto:omkar27122002@gmail.com" target="_blank"
         ><img
@@ -45,7 +47,7 @@ Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artif
         />
     </a>
 
-## Technical Skills:
+## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img height="25" src="https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png"/>
