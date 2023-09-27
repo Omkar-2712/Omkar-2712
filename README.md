@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-2712&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-2712" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar-2712" alt="omkar-2712" /></a> </p>
+
 
 - 📫 How to reach me **omkar27122002@gmail.com**
 
