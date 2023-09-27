@@ -1,11 +1,13 @@
-![logo](https://github.com/Omkar-2712/Omkar-2712/blob/main/data_analytics_certifications_-_article_image.webp)
+# Hi, I'm Omkar 👋
 
-<h1 align="center">Hi 👋, I'm Omkar Malusare</h1>
-<h3 align="center">A Business Analyst from India</h3>
+<img src="https://drive.google.com/file/d/1hdJ4XOaVS9UNE2gO9-KC9lkYPYVY5Zo4/view?usp=sharing">
+Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artificial Intelligence & Machine Learning,I am primed to excel as a Proactive Business Intelligence Analyst. My ambitions also extend to the realm of Finite Element Analysis,wanna make impactful contributions to engineering and Business analytics.
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-2712&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-2712" /> </p>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 
 
