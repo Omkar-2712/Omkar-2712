@@ -20,18 +20,6 @@ Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artif
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Omkar-2712" target="_blank"
-        ><img
-            height="25"
-            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-    <a href="https://grabcad.com/omkar.malusare-5" target="_blank"
-        ><img
-            height="25"
-            src="https://blog.grabcad.com/wp-content/uploads/2011/03/grabcad-logo-300x84.png"
-        />
-    </a>
     <a href="https://www.instagram.com/omkarr._27/" target="_blank"
         ><img
             height="25"
@@ -44,6 +32,19 @@ Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artif
             src="https://logos-world.net/wp-content/uploads/2022/04/Behance-Logo.png"
         />
     </a>
+    <a href="https://github.com/Omkar-2712" target="_blank"
+        ><img
+            height="25"
+            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="https://grabcad.com/omkar.malusare-5" target="_blank"
+        ><img
+            height="25"
+            src="https://blog.grabcad.com/wp-content/uploads/2011/03/grabcad-logo-300x84.png"
+        />
+    </a>
+
 ## Technical Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
