@@ -7,6 +7,34 @@ Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artif
 <a href=""><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - 📫 How to reach me **omkar27122002@gmail.com**
 - 💼 GrabCAD - https://grabcad.com/omkar.malusare-5
+## 🌐 Socials:
+
+<a href="mailto:omkar27122002@gmail.com" target="_blank"
+        ><img
+            height="25"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    
+    <a href="https://wa.me/8605590713" target="_blank"
+        ><img
+            height="25"
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+
+    <a href="https://twitter.com/abhishekjani08" target="_blank"
+        ><img
+            height="25"
+            src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+        />
+    </a>
+    <a href="https://https://github.com/Omkar-2712" target="_blank"
+        ><img
+            height="25"
+            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
