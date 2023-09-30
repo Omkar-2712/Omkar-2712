@@ -60,5 +60,6 @@ Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artif
 ![3D Slicer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-2712&show_icons=true&locale=en&layout=compact" alt="omkar-2712" /></p>
+
+
 
