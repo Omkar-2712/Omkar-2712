@@ -1,6 +1,6 @@
 # Hi, I'm Omkar 👋
 
-<img src="https://github.com/Omkar-2712/Omkar-2712/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png">
+
 
 Driven by a fervent enthusiasm for Mechanical Engineering and expertise in Artificial Intelligence & Machine Learning,I am primed to excel as a Proactive Business Intelligence Analyst. My ambitions also extend to the realm of Finite Element Analysis,wanna make impactful contributions to Engineering and Business analytics.
 
