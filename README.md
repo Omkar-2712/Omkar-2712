@@ -54,12 +54,12 @@ enhancing my knowledge.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img height="25" src="https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png"/>
 <img height="25" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"/>
-![Ansys](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lotus Shark](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solid works](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Catia](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Mill Master Pro](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![3D Slicer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ansys]
+![Lotus Shark]
+![Solid works]
+![Catia]
+![Mill Master Pro]
+![3D Slicer]
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
