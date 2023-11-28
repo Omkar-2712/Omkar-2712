@@ -2,7 +2,9 @@
 
 
 
-Driven by a fervent enthusiasm for Engineering and expertise in Artificial Intelligence & Machine Learning,I am primed to excel as a Proactive Business Intelligence Analyst. My ambitions also extend to the realm of Finite Element Analysis,wanna make impactful contributions to Engineering and Business analytics.
+Leveraging my four years of engineering experience, to work for a stimulating work culture and environment where I am allowed to freely apply my FEA and Business Analytics principles learned to the best interest of the organization and gain rich experience thereby
+enhancing my knowledge.
+
 
 
 <a href=""><img align="right" width="200" height="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif?raw=true"></a>
