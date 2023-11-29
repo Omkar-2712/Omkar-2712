@@ -29,10 +29,7 @@ enhancing my knowledge.
             height="25"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"
         />
-    </a>
-
-        />
-    </a>
+ </a>
     <a href="https://github.com/Omkar-2712" target="_blank"
         ><img
             height="25"
