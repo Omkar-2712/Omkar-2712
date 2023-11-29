@@ -9,7 +9,6 @@ enhancing my knowledge.
 
 <a href=""><img align="right" width="200" height="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif?raw=true"></a>
 
-
 ## How to reach me
 
 <a href="mailto:omkar27122002@gmail.com" target="_blank"
