@@ -48,7 +48,13 @@ enhancing my knowledge.
             src="https://blog.grabcad.com/wp-content/uploads/2011/03/grabcad-logo-300x84.png"
         />
     </a>
-
+## Technologies Used
+- **Programming Languages:** Python, SQL
+- **Business Intelligence (BI) Software:** Tableau, Looker, Power BI
+- **Analysis Tools:** Ansys Mechanical, Altair Hyperworks, Lotus Shark
+- **Project Management:** Trello, Slack
+- **Design Software:** SolidWorks, Catia, AutoCAD, 3D Slicer, Mill Master Pro, Canva
+  
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
