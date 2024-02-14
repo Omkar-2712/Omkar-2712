@@ -2,7 +2,7 @@
 
 
 
-Leveraging my four years of engineering experience, to work for a stimulating work culture and environment where I am allowed to freely apply my FEA and Business Analytics principles learned to the best interest of the organization and gain rich experience thereby
+Leveraging my four years of engineering experience, to work for a stimulating work culture and environment where I am allowed to freely apply my data analytics principles learned to the best interest of the organization and gain rich experience thereby
 enhancing my knowledge.
 
 
