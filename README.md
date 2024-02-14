@@ -23,6 +23,12 @@ enhancing my knowledge.
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
+<a href="[https://wa.me/8605590713](https://www.linkedin.com/in/omkar-m-559b14281/)" target="_blank"
+        ><img
+            height="25"
+            src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://t3.ftcdn.net/jpg/03/95/39/16/360_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP.jpg)"
+        />
+    </a>
     <a href="https://www.instagram.com/omkarr._27/" target="_blank"
         ><img
             height="25"
